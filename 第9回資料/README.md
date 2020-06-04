@@ -4,8 +4,9 @@
 
 ## 内容
 * ニューラルネットワーク（古川）
-  * 16_ロジスティック回帰.ipynb
-  * クック16.ロジスティック回帰.pptx
+  * chap20_ニューラルネットワーク.ipynb
+  * クックブックNN_BDA古川.pptx
+
 * Pandasの基本と実例（清野）
   * Pandasの基本的な使い方  
 [【Pythonによるデータ分析】Pandasの基本操作5選](https://bdarc.net/pandas-basic-5methods-selection/)
