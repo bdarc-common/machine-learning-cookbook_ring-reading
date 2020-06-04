@@ -4,6 +4,7 @@
 * 内容
   * ランダムフォレストの理論と実装（清野）
   * k-最近傍法の理論と実装（古川）
+   * chap15_k-最近傍法.ipynb と cookbook-knn-bda-furukawa.pptx
   * LT(日沢）
 
 * ランダムフォレストブログまとめ
